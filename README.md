@@ -17,4 +17,9 @@ The company needs a performance dashboard with key metrics, timeline, and price 
 ## Dashboard
 <a href="https://github.com/Zainabjoy/Excel-SQL-PowerBI-Project/blob/main/Bike%20sale%20Project%202.pbix">Bike Sales Dashboard</a>
 
+## Price Increase Recommendation
+From 2021 to 2022, a 25% price increase led to a 64% rise in demand, suggesting strong customer tolerance. Assuming a linear relationship, a slight additional price increase is unlikely to significantly reduce demand. The calculated price elasticity of 2.56 indicates demand is relatively inelastic—meaning moderate price hikes can still be profitable.
+
+
+
 
